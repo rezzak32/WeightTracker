@@ -16,6 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 <p align="center">
   <img src="hstr3.png" width="30%" height="30%">
-  <img src="ykt.png" width="30%" height="30%">
+  <img src="ykt.png" width="27%" height="27%">
   <img src="hstr6.png" width="30%" height="30%">
 </p>
