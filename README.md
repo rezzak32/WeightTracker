@@ -18,3 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 ![](hstr3.png)
 ![](ykt.png)
 ![](hstr6.png)
+<img src="hstr3.png" width="30%" height="30%">
+  <img src="ykt.png" width="30%" height="30%">
+  <img src="hstr6.png" width="30%" height="30%">
